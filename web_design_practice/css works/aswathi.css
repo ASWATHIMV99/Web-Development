@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Itim&family=Noto+Serif+Malayalam:wght@100&display=swap');
+
+#a1 {
+    color: blue;
+}
+
+#a2 {
+
+    color: blueviolet;
+    font-family: 'Itim', cursive;
+}
+
+.c1 {
+    color: brown;
+}
+
+.c2 {
+    color: rgb(184, 85, 85);
+
+}
+
+h1 {
+    color: aquamarine;
+}
+
+#a3 {
+    background-color: rgb(223, 223, 3);
+}
+
+header {
+    background-color: blueviolet;
+}
+
+main {
+    background-color: red;
+}
+
+footer {
+    background-color: orange;
+}
+
+p {
+    font-family: 'Abril Fatface', cursive;
+}

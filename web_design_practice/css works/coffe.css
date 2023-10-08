@@ -1,0 +1,157 @@
+body {
+    background-color: black;
+    margin: 0px;
+    background-image :url(/images/coffeeee.jfif);
+    justify-content: space-evenly;
+
+}
+.parent{
+    height: 100%;
+    width: 100%;
+    margin-left: 20px;
+    border: 1px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.header{
+    height: 288px;
+    width: 100%;
+    background-color: rgb(80, 56, 56);
+    position: absolute;
+}
+.h{
+    position: relative;
+    color: antiquewhite;
+    height: 100px;
+    width: 30%;
+    margin-top: -500px;
+    margin-left: 450px;
+
+}
+.img{
+    width: 100%;
+    margin-right: 20px;
+}
+.p{
+    color: rgb(255, 255, 255);
+    
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+    width: 700px;
+    text-align: center;
+    margin-left: 50px;
+    
+    
+}
+
+.leftcont{
+    margin-top: 325px;
+    height: 300px;
+    width: 25%;
+    background-color: #99590b;
+    position: sticky;
+}
+.sidecont{
+    width: 70%;
+    height: 300px;
+    background-color: aliceblue;
+    margin-left: 360px;
+    margin-top: -300px;
+    display: flex;
+}
+#kl{
+    height: 150px;
+    margin-top: 62px;
+    margin-left: -17px;
+}
+#new{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#car{
+    height: 30px;
+    background-color: gold;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+#but{
+    height: 30px;
+    background-color: gold;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.about{
+    background-color: blueviolet;
+    height: 400px;
+    float: left;
+    width: 100%;
+    border: black;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-right: 15px;
+
+}
+.body{
+    background-color: aqua;
+    color: black;
+    float: left;
+    height: 200px;
+    width: 500px;
+}
+.footer{
+    background-color: azure;
+    color: black;
+    height: 77px;
+    width: 1342px;
+    float: left;
+    
+}
+.boxes{
+    width: 100%;
+    height: 450px;
+   
+    justify-content: space-evenly;
+    display: flex;
+    margin: 20px;
+
+}
+
+.box{
+    background-color: rgb(117, 107, 51);
+    border: 2px solid black;
+    height: 400px;
+    width: 20%;
+    float: left;
+    margin: 25px;
+}
+#child{
+    margin-top: 20px;
+    margin-left: 50px;
+    border: 2px solid white;
+    height: 30px;
+    width: 150px;
+    text-align: center ;
+    color: rgb(250, 250, 250);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+#z{
+    text-align: center ;
+    font-weight: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#x{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+}
+.box img{
+    width: 100%;
+}

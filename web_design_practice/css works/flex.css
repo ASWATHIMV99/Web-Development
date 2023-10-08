@@ -1,0 +1,21 @@
+.row{
+    background-color: rgb(255, 0, 0);
+    width: 50%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 5px solid rgb(17, 0, 252);
+}
+.col{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    text-align: center;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
